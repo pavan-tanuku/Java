@@ -1,4 +1,4 @@
-package DSA.Mathematics;
+package Java.DSA.Mathematics;
 
 //Test cases:
 //I/p: n = 78987;

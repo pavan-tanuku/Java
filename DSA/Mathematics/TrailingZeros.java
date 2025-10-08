@@ -1,4 +1,4 @@
-package DSA.Mathematics;
+package Java.DSA.Mathematics;
 import java.lang.*;
 import java.util.Scanner;
 //Test cases:
@@ -8,6 +8,21 @@ import java.util.Scanner;
 //O/p: 2
 //I/p: n = 100
 //O/p: 24
+
+// hint: find the number of 5's
+//because we need to find the pair of 2 and 5 which is 2*5,
+// which gives 1 trailing number (2*5 = 10).
+
+/*
+Time complexity: O(log5(num)) = O(log(num))
+
+the loop stops at 5^k > num
+the last iteration of loop is 5^k <= num
+
+5^k <= num
+k <= log5(num)
+
+ */
 
 public class TrailingZeros {
 
