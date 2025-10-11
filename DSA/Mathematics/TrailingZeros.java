@@ -1,5 +1,6 @@
 package Java.DSA.Mathematics;
 import java.lang.*;
+import java.util.HashMap;
 import java.util.Scanner;
 //Test cases:
 //I/p: n = 5  => 1*2*3*4*5 = 120 ==> 1 trailing zero
@@ -62,4 +63,5 @@ public class TrailingZeros {
         System.out.println("The no of trailing zeros in the " + num + " is: " + method2);
         scan.close();
     }
+
 }
