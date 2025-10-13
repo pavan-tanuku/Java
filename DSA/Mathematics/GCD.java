@@ -12,6 +12,7 @@ import java.util.Scanner;
 
 public class GCD {
 
+    // O(min(a,b))
     private static int naiveAlgo(int a, int b) {
         int res = Math.min(a, b);
         while(res > 0) {
@@ -22,6 +23,7 @@ public class GCD {
         return res;
     }
 
+    // O(log(min(a,b))) striver approach
     private static int euclideanAlgo1(int a, int b) {
         while(a > 0 && b > 0) {
             if(a > b) a %= b;
@@ -31,6 +33,7 @@ public class GCD {
         else return a;
     }
 
+    //O(log(min(a,b)))
     private static int euclideanAlgo2(int a, int b) {
         if(b == 0)
             return a;

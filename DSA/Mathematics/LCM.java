@@ -17,6 +17,7 @@ import java.util.Scanner;
 
 public class LCM {
 
+    // O(a*b - max(a,b))
     public static int badAlgo(int a, int b) {
         int res = Math.max(a, b);
         while(true) {
@@ -32,6 +33,7 @@ public class LCM {
 
     gcd => using Euclidean algorithm
     lcm => using above formula.
+    O(log(min(a,b)
      */
 
     public static int gcd(int a, int b) {
