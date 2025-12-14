@@ -1,0 +1,82 @@
+🟡 EASY → MEDIUM
+👉 Technique: Two pointers, sorting, hashing
+Questions:
+
+- Check if two strings are anagrams
+- Remove duplicate characters
+- Find duplicate characters
+- Reverse words in a sentence
+- Find longest word in a string
+- Check if string contains only digits
+- Count occurrence of a substring
+- Replace all vowels with *
+- Check if string is rotation of another
+- Find all permutations of a string
+
+Algorithms / Techniques Used
+✔ Two Pointers
+✔ Sorting
+✔ Frequency Array (size 26 / 256)
+✔ HashMap
+
+
+🔵 MEDIUM LEVEL (INTERVIEW FAVORITES)
+👉 Technique: Sliding Window, Hashing
+Questions:
+
+- Longest substring without repeating characters
+- Longest palindrome substring
+- Smallest window containing all characters of another string
+- Check if one string is a subsequence of another
+- Count distinct substrings
+- Find longest common prefix
+- Group anagrams
+- Find repeated DNA sequences
+- Longest substring with at most K distinct character
+- String compression (aabcc → a2b1c2)
+
+Algorithms / Techniques Used
+✔ Sliding Window
+✔ HashSet / HashMap
+✔ Two pointers (L & R)
+
+🔴 MEDIUM → HARD
+👉 Technique: Prefix arrays, pattern matching
+Questions:
+
+- Find pattern in string
+- Count occurrences of pattern efficiently
+- Find longest prefix which is also suffix
+- Repeated substring pattern
+- Remove minimum characters to make string valid
+- Find lexicographically smallest rotation
+- Find minimum insertions to make string palindrome
+- Longest common substring
+- Check string periodicity
+- String matching with wildcards
+
+Algorithms / Techniques Used
+✔ Prefix Function (LPS array)
+✔ KMP Algorithm
+✔ DP (basic)
+
+🔥 HARD LEVEL (ADVANCED / DSA)
+👉 Technique: Advanced pattern matching
+Questions:
+
+- Pattern matching using KMP
+- Pattern matching using Rabin-Karp
+- Pattern matching using Z-Algorithm
+- Suffix array construction
+- Suffix tree (conceptual)
+- Longest repeated substring
+- Minimum window subsequence
+- Edit distance
+- String interleaving
+- Palindromic partitioning
+
+Algorithms / Techniques Used
+✔ KMP Algorithm
+✔ Rabin-Karp (Hashing)
+✔ Z Algorithm
+✔ Dynamic Programming

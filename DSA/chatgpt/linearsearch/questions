@@ -1,0 +1,48 @@
+🟢 EASY LEVEL (Warm-up)
+👉 Goal: Understand traversal
+- Search an element in an integer array
+- Search an element in a string array
+- Find whether a given number exists or not
+- Find the first occurrence of an element
+- Count how many times an element appears
+💡 Hint: Start from index 0, compare one by one.
+
+
+🟡 EASY → MEDIUM
+👉 Goal: Apply small logic with linear search
+- Find the last occurrence of an element
+- Find the maximum element in an array
+- Find the minimum element in an array
+- Count even and odd numbers in an array
+- Find the index of the largest element
+💡 Hint: Keep updating a variable while traversing.
+
+
+🔵 MEDIUM LEVEL
+👉 Goal: Combine linear search with conditions
+- Find all indices where an element occurs
+- Check if an array is sorted or not
+- Find the second largest element
+- Find the first repeating element
+- Find the first non-repeating element
+💡 Hint: Use flags or extra variables.
+
+
+🔴 MEDIUM → HARD
+👉 Goal: Slight twist, still linear traversal
+- Search an element in a 2D array
+- Find the row and column of a given element
+- Find the majority element (appears > n/2 times)
+- Find the element with maximum frequency
+- Check if two arrays have common elements
+💡 Hint: Nested loops allowed.
+
+
+🧵 STRING-BASED (Linear Search on Strings)
+👉 Goal: Apply linear search on characters
+- Search a character in a string
+- Count frequency of each character
+- Find first repeating character
+- Find first non-repeating character
+- Check if a string contains only digits
+💡 Hint: charAt(i) is your friend.
