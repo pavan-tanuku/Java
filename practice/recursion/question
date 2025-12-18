@@ -1,0 +1,25 @@
+🟢 Beginner Level (Build intuition)
+- Factorial of a number
+- Fibonacci sequence (nth term, printing first n terms)
+- Sum of digits of a number
+- Reverse a string using recursion
+- Check if a string is palindrome recursively
+- Print numbers from 1 to N (forward and backward)
+
+🟡 Intermediate Level (Patterns & problem-solving)
+- Power function: compute x^n using recursion
+- Greatest Common Divisor (GCD) using Euclid’s algorithm
+- Tower of Hanoi (classic recursion problem)
+- Generate all subsets of a set (power set)
+- Generate all permutations of a string
+- Count ways to climb stairs (like Fibonacci, but with choices of 1 or 2 steps)
+- Binary Search implemented recursively
+
+🔴 Advanced Level (Interview-style challenges)
+- N-Queens problem (place queens on a chessboard without attacking each other)
+- Sudoku solver using backtracking
+- Rat in a Maze (find path through a grid)
+- Word Search in a matrix (DFS recursion)
+- Generate balanced parentheses for n pairs
+- Recursive tree traversals (preorder, inorder, postorder)
+- Find all paths in a graph using DFS recursion
